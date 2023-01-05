@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/765882632055975937/1655099867/1080x360)
+https://pbs.twimg.com/profile_banners/765882632055975937/1655099867/1080x360
 ### Hi there 👋, my name is Anisur Rahman Jony
 #### I am frontend and backend developer
 ![I am frontend and backend developer]
